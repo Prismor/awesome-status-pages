@@ -102,6 +102,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Pagerly](https://pagerly.io) - Oncalls and Incidence response with custom domain hosted status pages and uptime monitoring
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Phare](https://phare.io/products/uptime/status-pages) - Uptime monitoring, alerts, incidents, analytics, and status pages
+* [Prismix](https://prismix.dev) - AI-focused status monitoring and aggregator for 75+ AI services (OpenAI, Anthropic, Google Gemini, etc.) with incident timeline, email/webhook alerts, embeddable badges, and public REST API.
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
 * [Pulsetic](https://pulsetic.com/) - create status pages & incident management reports and keep your visitors updated
 * [Sematext Cloud](https://sematext.com/status-pages-and-incidents/) - public & private status pages with incidents, uptime metrics and charts offered as part of Sematext Synthetics
